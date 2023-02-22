@@ -9,6 +9,7 @@
 
   <name>Opslog SpringBoot Starter</name>
   <description>Operation Log annotation tool</description>
+  <url>https://github.com/rogerluoz/springboot-opslog</url>
 
   <licenses>
     <license>
