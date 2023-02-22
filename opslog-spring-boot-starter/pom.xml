@@ -28,7 +28,6 @@
   </developers>
 
   <scm>
-    <tag>main</tag>
     <url>https://github.com/rogerluoz/springboot-opslog.git</url>
     <connection>scm:git:https://github.com/rogerluoz/springboot-opslog.git</connection>
     <developerConnection>scm:git:https://github.com/rogerluoz/springboot-opslog.git</developerConnection>
@@ -46,6 +45,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <spring-boot.version>2.7.7</spring-boot.version>
+    <project.scm.id>github</project.scm.id>
   </properties>
 
   <dependencies>
